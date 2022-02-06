@@ -1,0 +1,25 @@
+h1 {
+  font-family: Garamond;
+  color: blue;
+}
+h2 {
+  font-family: Garamond;
+  color: blue}
+li {color: black
+}
+sub {color:black}
+div {
+  height: 80px;
+  width: 60%;
+  background-color: cadetblue;
+  outline: solid;
+  outline-color: yellow;
+  }
+body {
+  background-color: #778899
+}
+div2 {
+  background: linear-gradient(to right, red, orange , yellow, green, cyan, blue, violet);
+  color:transparent;
+  background-clip: text;
+}
